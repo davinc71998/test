@@ -4,11 +4,11 @@
 [언어,음성,이미지,자율주행관련 사례분석](https://github.com/davinc71998/test/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
 
 ## 2주차 과제 
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
+[2주차 문제풀이](https://github.com/davinc71998/test/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
 
 ## 3주차 과제 
-문제풀이
+[3주차 문제풀이](https://github.com/davinc71998/test/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 
 ## 4주차 과제 
-용어정리,문제풀이
+[4주차 용어정리,문제풀이](https://github.com/davinc71998/test/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 
